@@ -1,0 +1,3 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/NB3zerra/personal-finance-tracker-backend
